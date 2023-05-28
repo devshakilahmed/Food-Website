@@ -1,0 +1,255 @@
+@media all and (max-width: 1200px) {
+    .heder-logo a {
+
+        font-size: 23px;
+
+    }
+    .banner-img-text {
+
+        top: 124px;
+
+    }
+    .banner-title h5 {
+        font-size: 17px;
+    }
+    .tablebook-img1 {
+        left: 225px;
+    }
+    .upcoming-left p {
+        font-size: 18px;
+    }
+    .upcoming-left h1 {
+        font-size: 36px;
+    }
+}
+
+@media all and (max-width: 1150px){
+    .tablebook-img1 {
+        left: 210px;
+    }
+}
+@media all and (max-width: 1120px){
+    .tablebook-img1 {
+        left: 200px;
+    }
+
+}@media all and (max-width: 1100px){
+    .tablebook-img1 {
+        left: 155px;
+    }
+    .tablebook-img2 {
+        z-index: -111;
+    }
+}
+@media all and (max-width: 992px){
+    .heder-logo a {
+        font-size: 16px;
+    }
+
+    .heder-manu ul li a {
+        font-size: 13px;
+        padding: 10px;
+    }
+    .heder-contact h3 {
+        font-size: 18px;
+
+    }
+    .heder-contact a {
+        font-size: 15px;
+
+    }
+    .banner-section {
+        padding: 150px 0px;
+    }
+    .banner-title h5 {
+        font-size: 12px;
+    }
+    .banner-title h1 {
+        font-size: 49px;
+        font-weight: 800;
+    }
+    .banner-img2 {
+        top: -37px;
+        right: 73px;
+
+    }
+    .banner-img3 {
+        top: -58px;
+        left: 20px;
+
+    }
+    .tablebook-img1 {
+        left: 133px;
+    }
+    .banner-img4 {
+        bottom: -25px;
+        left: 38px;
+        width: 92px;
+
+    }
+    .banner-img-text {
+        top: 89px;
+        left: 51px;
+    }
+    .popular-burger-left-title h4 {
+        font-size: 22px;
+    }
+    .popular-burger-right-title h4 {
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .popular-burger-right-title h6 {
+        font-size: 14px;
+    }
+    .upcoming-left h5 {
+        margin: 0;
+    }
+    .upcoming-left h1 {
+        font-size: 26px;
+    }
+    .upcoming-left p {
+        font-size: 15px;
+    }
+    .choose-section-item-title h4 {
+        font-size: 15px;
+    }
+    .choose-section-item-title p {
+        font-size: 13px;
+
+    }
+}
+@media all and (max-width: 767px){
+    .heder-logo a {
+        font-size: 21px;
+    }
+    .heder-logo {
+        text-align: center;
+        border-right: none;
+        margin: -15px;
+    }
+    .heder-manu {
+
+        line-height: 26px;
+    }
+    .heder-manu ul {
+        text-align: start;
+    }
+    .heder-manu ul li a {
+        font-size: 8px;
+        padding: 0px 4px;
+    }
+    .heder-manu ul li a::after {
+        bottom: 5px;
+
+    }
+    .heder-contact {
+        line-height: 0;
+        border-left: none;
+    }
+    .heder-contact h3 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .heder-contact a {
+        font-size: 8px;
+    }
+    .banner-section {
+        padding: 100px 0px;
+    }
+    .banner-title {
+        text-align: center;
+        margin-bottom: 85px;
+    }
+    .banner-img2 {
+        top: -55px;
+    }
+    .banner-img4 {
+        bottom: 10px;
+        left: 80px;
+    }
+    .banner-img-text {
+        top: 131px;
+        left: 93px;
+    }
+    .popular-burger-left {
+
+        margin-bottom: 20px;
+    }
+    .choose-section-item {
+
+        margin-bottom: 20px;
+    }
+    .tablebook-heder h1 {
+        font-size: 30px;
+    }
+    .tablebook-table {
+        margin-top: 0px;
+    }
+    .Table-Book-section {
+        padding: 10px;
+        text-align: center;
+        position: relative;
+    }
+    .tablebook-table input {
+        width: 94%;
+    }
+    .tablebook-img2 img {
+        width: 100%;
+    }
+    .tablebook-img1 img {
+        width: 100%;
+    }
+    .tablebook-img1 {
+        top: -25px;
+        left: 322px;
+        width: 25%;
+    }
+    .footer-left {
+        text-align: center;
+    }
+    .footer-left p {
+        font-size: 12px;
+    }
+    .footer-right ul {
+        justify-content: center !important;
+    }
+    .footer-right ul li a i {
+        padding: 10px;
+
+        font-size: 15px;
+
+    }
+    .foot-section {
+        padding: 100px 20px;
+    }
+    .foot-logo {
+        text-align: center;
+        font-size: 11px;
+        margin-bottom: 30px;
+    }
+    .tablebook-img2 {
+
+        top: -43px;
+        left: -31px;
+        width: 39%;
+    }
+    .tablebook-img3 {
+        position: absolute;
+        bottom: -36px;
+        right: -41px;
+        z-index: -1;
+        /* opacity: 0; */
+        width: 44%;
+    }
+}
+@media all and (max-width: 575px){
+    .banner-img-text {
+        top: 125px;
+        left: 93px;
+    }
+}
+@media all and (max-width: 400px){
+    .banner-img-text {
+        top: 75px;
+    }
+}
